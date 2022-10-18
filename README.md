@@ -1,9 +1,10 @@
-<h3 style="text-align:center;"><i> CouiourC</i> </h3> 
 
-❤<a href="https://couriourc.github.io" style="color: black;"> 
- **blog**
-</a>❤
+<h1 style="text-align:center;"><i> CouiourC</i> </h1> 
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=couriourc&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
+<div><a href="https://couriourc.github.io"> 
+<strong>❤blog❤</strong>
+</a></div>
 <!--
 **couriourc/couriourc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
