@@ -4,6 +4,10 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/couriourc/count.svg)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=couriourc&layout=compact)](https://github.com/couriourc/github-readme-stats)
+
+
+
 <i align="center"><strong>Learn about me?see me in <a href="https://couriourc.github.io"><strong>❤My Inn❤</strong></a>~~</strong></i>
 
 <div align="center"><strong>❤Relish Life❤</strong></div>
