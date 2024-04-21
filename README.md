@@ -7,10 +7,10 @@
 
 
 
-<i align="center"><strong>Learn about me?see me in <a href="https://couriourc.github.io"><strong>❤My Inn❤</strong></a>~~</strong></i>
+<i align="middle"><strong>Learn about me?see me in <a href="https://couriourc.github.io"><strong>❤My Inn❤</strong></a>~~</strong></i>
 
-<div align="center"><strong>❤Relish Life❤</strong></div>
+<div align="middle"><strong>❤Take a rest❤</strong></div>
 
 <div align="middle">
-![Visitor Count](https://profile-counter.glitch.me/couriourc/count.svg)
+<img src="https://profile-counter.glitch.me/couriourc/count.svg"/>
 </div>
