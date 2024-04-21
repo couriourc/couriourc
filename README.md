@@ -1,6 +1,6 @@
 
 
-<h1 style="text-align:center;"><i> CouiourC</i> </h1> 
+<h1 align="middle"><i> CouiourC</i> </h1> 
 
 <div align="middle"><strong>❤Take a rest❤</strong></div>
 
