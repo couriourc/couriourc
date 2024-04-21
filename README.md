@@ -11,4 +11,6 @@
 
 <div align="center"><strong>❤Relish Life❤</strong></div>
 
+<div align="middle">
 ![Visitor Count](https://profile-counter.glitch.me/couriourc/count.svg)
+</div>
